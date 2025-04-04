@@ -31,4 +31,4 @@ As part of a contract-based project with **Outlier.ai**, I participated in **lar
 These screenshots show the certification and onboarding modules completed during my contract with Outlier.ai.
 
 ![Outlier Modules 1](./Outlier_Modules_Page1.png)  
-![Outlier Modules 2](./Outlier_Nodules_Page2.png)
+![Outlier Modules 2](./Outlier_Modules_Page2.png)
