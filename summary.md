@@ -3,7 +3,7 @@
 This project reflects my contract work with Outlier.ai, where I contributed to improving large language model performance through human evaluation and prompt engineering.
 
 ## 📌 Goals of the Project
-- Evaluate AI responses for helpfulness, tone, clarity, and factual correctness
+- Evaluate AI responses for helpfulness, tone, clarity and factual correctness
 - Detect and document hallucinations and inconsistencies
 - Apply reinforcement learning from human feedback (RLHF) principles
 - Improve LLM behavior through structured rating systems
